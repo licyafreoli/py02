@@ -14,4 +14,4 @@ Este repositório contém uma atividade prática em Python que envolve a criaç�
 2. Execute o arquivo `main.py` usando Python:
    ```bash
    python main.py
-# py02
+# py01*
